@@ -1,0 +1,74 @@
+
+body{
+    background-color: #05132d
+}
+section{
+    background-color:#05132d
+}
+
+
+.searchbtn{
+    font-size: 12px;
+    height:38px;
+    background: #192339;
+    border: 1px solid #192339;
+    min-width: 200px;
+    background: url(image/searchbluicon.png) no-repeat scroll  170px 7px;
+   
+    
+}
+
+#explorebtn{
+    background-color:#03affb;
+}
+#connectwalletbtn{
+    border-color:white;
+}
+
+#socialicon{
+    color:#02102a;
+    
+}
+
+.socialicon{
+
+height: 26px;
+
+
+
+}
+
+.leads{
+    font-size:13px;
+    color:white;
+}
+
+.leadss{
+    color:white;
+    font-size: 40px;
+}
+
+#switchablee{
+   
+    background: url(image/herobgimage.png) no-repeat;
+}
+
+#sellnftbtn{
+    color:white;
+    background-color: transparent;
+    border-color:white;
+    width:90px;
+    padding-left:15px;
+}
+
+#exploreherobtn{
+    width:110px;
+    padding-left:9px;
+    color:#03affb;
+}
+
+
+
+footer{
+    background-color: #02102a;
+}
